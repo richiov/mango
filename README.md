@@ -12,28 +12,28 @@ Porfavor, No hagas Copy&Paste(Copiar, Pegar) 
 Tal Como les Digo en el Video, deberan Crear 2 carpetas y 3 archivos
 
 
+Nombre de las Carpetas:
+ - events
 
-La Primer Carpeta se llama: events
-
-la Segunda Carpeta se llama: commands
+ - commands
 
  
 Los Archivos se llaman:
 
-index
+- index
 
-config
+- config
 
-info [Este Ultimo es Opcional]
+- info [Este Ultimo es Opcional]
 
  
 En la Consola de tu VSC deberas poner o agregar estos paquetes:
 
-npm init -y
+> npm init -y
 
-npm i discord.js --s
+> npm i discord.js --s
 
-npm i fs --s
+> npm i fs --s
 
  
 Por el Momento esto es todo, seguire subiendo mas contenido :3
