@@ -1,6 +1,8 @@
 # Mango 
 # Codigos del Bot para Tutoriales 
 *Ejemplo del Orden en que deben de estar tus carpetas y archivos en tu carpeta principal del bot*
+
+
 ![image](https://user-images.githubusercontent.com/76197730/115167188-332e6700-a07c-11eb-81dc-39667d6cf485.png)
 
 Link de la Serie: [YouTube/richi_ov/Haciendo_tu_bot](https://youtu.be/U4VaMb4Gsu8)
