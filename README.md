@@ -41,7 +41,7 @@ En la Consola de tu VSC deberas poner o agregar estos paquetes:
  
 Por el Momento esto es todo, seguire subiendo mas contenido :3
   Mi Discord
-  [![](https://media.discordapp.net/attachments/829846059907678268/833785861820776468/Discord.jpg?width=702&height=702)](https://discord.gg/xEUDMGTeRt
+  [![](https://cdn.discordapp.com/attachments/829846059907678268/834469896217296978/Discord-logo.png)](https://discord.gg/xEUDMGTeRt
  "Asies, mi discord")
   
  
